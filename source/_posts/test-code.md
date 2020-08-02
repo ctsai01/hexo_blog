@@ -1,8 +1,14 @@
 ---
-title: test_code
+title: Vespa ai 筆記 (一)
 date: 2020-08-02 15:57:43
-tags:
+tags: 
+    - Vespa
+    - Yahoo
+    - Opensource
+    - Search engine
+    - Real time
 toc: true
+thumbnail: https://lh3.googleusercontent.com/proxy/5eooE9dp4LhPSFpxtVF-W36nm-e2qda09vwrDKCjA1U15CAO8G02ZJi3XVJnMZ6r8TReeDxP7_AySnjTDkzt16BNDqZIGRUphIvEUgd9BlP0bi3cMOiOzJHP6tg35jS-A8_qLoUo_-hJit6w5LlHsr4QzA
 ---
 
 # Vespa ai 筆記 (一)
@@ -15,6 +21,8 @@ toc: true
 ![](https://lh3.googleusercontent.com/0AI2Cirz3tGEEGa-KmmbBUUNjtrtiN-GlRacGY6X4SRkzK6AcWXaz0jsMd_WleQrQAPw23tXf0jFiec7GqBv-WUUjQrq81ezZbhanYtAk16hn1LJvIOyT8dr7icliOAvJ9K87YwT_0M=w1200)
 
 > 第一次看到是不是會有種不明覺的感覺XD
+
+<!--more-->
 
 而也因為這些特性我們常常利用vespa 來建立:
 * 搜尋引擎 

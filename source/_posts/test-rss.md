@@ -1,9 +1,11 @@
 ---
-title: test_rss
+title: 幫網站畫圖標
 date: 2020-08-02 14:50:50
 tags: 
-    - test_rss
+    - Icon
+    - Design
 toc: true
+thumbnail: https://image.freepik.com/free-vector/design-word-concept_23-2147844787.jpg
 ---
 
 ## 幫網站畫圖標
@@ -21,6 +23,7 @@ toc: true
 > 第一版
 
 網站利用英文名稱 Mike 的第一個英文字母 M 為主體(事實上是因為沒有美術天分不知道怎麼畫XD)，第一版畫完後總覺得哪裡不太對近，觀察完後發現現在許多圖標設計好像都是將背景色圖滿，而圖標用白色的字體，於是就照著Yahoo, Mozilla 的樣式進行一下修正。
+<!--more-->
 
 ### 第二版
 ![](https://i.imgur.com/vVujQIO.png)
