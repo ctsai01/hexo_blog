@@ -158,7 +158,7 @@ donates:
         type: wechat
         # Wechat qrcode image URL
         qrcode: '/img/wechat.JPG'
-        
+
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 share:
@@ -264,7 +264,7 @@ widgets:
         position: left
         type: adsense
         # AdSense client ID
-        client_id: ''
+        client_id: 'ca-pub-4244469970377441'
         # AdSense AD unit ID
         slot_id: ''
 # Plugin configurations
