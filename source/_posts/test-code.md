@@ -20,7 +20,7 @@ thumbnail: https://lh3.googleusercontent.com/proxy/5eooE9dp4LhPSFpxtVF-W36nm-e2q
 來看看官方的描述：
 ![](https://lh3.googleusercontent.com/0AI2Cirz3tGEEGa-KmmbBUUNjtrtiN-GlRacGY6X4SRkzK6AcWXaz0jsMd_WleQrQAPw23tXf0jFiec7GqBv-WUUjQrq81ezZbhanYtAk16hn1LJvIOyT8dr7icliOAvJ9K87YwT_0M=w1200)
 
-> 第一次看到是不是會有種不明覺利的感覺XD
+> 第一次看到是不是會有種不明覺厲的感覺XD
 
 <!--more-->
 
