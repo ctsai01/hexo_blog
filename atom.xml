@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-02T09:40:38.077Z</updated>
+  <updated>2020-08-02T10:20:22.288Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,53 +17,70 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test_code</title>
+    <title>Vespa ai 筆記 (一)</title>
     <link href="http://yoursite.com/2020/08/02/test-code/"/>
     <id>http://yoursite.com/2020/08/02/test-code/</id>
     <published>2020-08-02T15:57:43.000Z</published>
-    <updated>2020-08-02T09:40:38.077Z</updated>
+    <updated>2020-08-02T10:20:22.288Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1&gt;Vespa ai 筆記 (一)&lt;/h1&gt;
-&lt;p&gt;&lt;img
-        
-      
+      &lt;h1&gt;Vespa ai 筆記 (一)&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/NO5yMo6U2uvERXR9aqsAx39P8sSiFV85a5ocAPNYNPOM65vi1PoVG_RxIyiW9RJr3A7rrH-veZSzznSh2pabuG9k-2sAQvZQ4jwhmjRbrTxsXfKT9fFDljz_fADqaItjZa8hSOYhNlw=w1200&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Vespa-是什麼&quot;&gt;Vespa 是什麼&lt;/h2&gt;
+&lt;p&gt;一般講到&lt;a href=&quot;https://vespa.ai/&quot;&gt;vespa&lt;/a&gt; 通常第一個聯想到的往往是某個機車品牌XD，然而除了機車品牌外它同時也是一個&lt;a href=&quot;https://github.com/vespa-engine/vespa&quot;&gt;開源&lt;/a&gt;的搜索引擎，Vespa 由 Yahoo! ( verizon media ) 於 2017年9月發布， Vespa 用於對海量數據集進行低延遲計算的引擎，它負責存儲和索引數據資料。同時 Vespa 中也提供了: Indexing, Searching, Ranking, Grouping，等等許多自定義的擴展功能。&lt;/p&gt;
+&lt;p&gt;來看看官方的描述：&lt;br&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/0AI2Cirz3tGEEGa-KmmbBUUNjtrtiN-GlRacGY6X4SRkzK6AcWXaz0jsMd_WleQrQAPw23tXf0jFiec7GqBv-WUUjQrq81ezZbhanYtAk16hn1LJvIOyT8dr7icliOAvJ9K87YwT_0M=w1200&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第一次看到是不是會有種不明覺的感覺XD&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
     
+    
+      <category term="Vespa" scheme="http://yoursite.com/tags/Vespa/"/>
+    
+      <category term="Yahoo" scheme="http://yoursite.com/tags/Yahoo/"/>
+    
+      <category term="Opensource" scheme="http://yoursite.com/tags/Opensource/"/>
+    
+      <category term="Search engine" scheme="http://yoursite.com/tags/Search-engine/"/>
+    
+      <category term="Real time" scheme="http://yoursite.com/tags/Real-time/"/>
     
   </entry>
   
   <entry>
-    <title>test_rss</title>
+    <title>幫網站畫圖標</title>
     <link href="http://yoursite.com/2020/08/02/test-rss/"/>
     <id>http://yoursite.com/2020/08/02/test-rss/</id>
     <published>2020-08-02T14:50:50.000Z</published>
-    <updated>2020-08-02T09:40:38.077Z</updated>
+    <updated>2020-08-02T10:20:22.288Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;幫網站畫圖標&quot;&gt;幫網站畫圖標&lt;/h2&gt;
+      &lt;h2 id=&quot;幫網站畫圖標&quot;&gt;幫網站畫圖標&lt;/h2&gt;
 &lt;p&gt;最近在瀏覽網站時突然覺得netflix 的圖標讓人印象深刻，突然想到自己的網站上一直沒有圖標，於是決定來幫網站加個圖標ＸＤ&lt;/p&gt;
-&lt;p&gt;&lt;img
-        
-      
+&lt;p&gt;&lt;img src=&quot;https://d2.alternativeto.net/dist/icons/netflix_98388.png?width=64&amp;amp;height=64&amp;amp;mode=crop&amp;amp;upscale=false&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;netflix 圖標&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;試畫了幾版&quot;&gt;試畫了幾版&lt;/h2&gt;
+&lt;h3 id=&quot;第一版&quot;&gt;第一版&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/FBEycn2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第一版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;網站利用英文名稱 Mike 的第一個英文字母 M 為主體(事實上是因為沒有美術天分不知道怎麼畫XD)，第一版畫完後總覺得哪裡不太對近，觀察完後發現現在許多圖標設計好像都是將背景色圖滿，而圖標用白色的字體，於是就照著Yahoo, Mozilla 的樣式進行一下修正。&lt;/p&gt;
     
     </summary>
     
     
     
-      <category term="test_rss" scheme="http://yoursite.com/tags/test-rss/"/>
+      <category term="Icon" scheme="http://yoursite.com/tags/Icon/"/>
+    
+      <category term="Design" scheme="http://yoursite.com/tags/Design/"/>
     
   </entry>
   
@@ -71,8 +88,8 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/08/02/hello-world/"/>
     <id>http://yoursite.com/2020/08/02/hello-world/</id>
-    <published>2020-08-02T09:40:38.077Z</published>
-    <updated>2020-08-02T09:40:38.077Z</updated>
+    <published>2020-08-02T10:20:22.288Z</published>
+    <updated>2020-08-02T10:20:22.288Z</updated>
     
     <summary type="html">
     
@@ -95,7 +112,7 @@
     <link href="http://yoursite.com/2020/08/01/page-1/"/>
     <id>http://yoursite.com/2020/08/01/page-1/</id>
     <published>2020-08-01T22:15:41.000Z</published>
-    <updated>2020-08-02T09:40:38.077Z</updated>
+    <updated>2020-08-02T10:20:22.288Z</updated>
     
     <summary type="html">
     
@@ -110,7 +127,7 @@
     <link href="http://yoursite.com/2020/07/01/123/"/>
     <id>http://yoursite.com/2020/07/01/123/</id>
     <published>2020-07-01T22:15:32.000Z</published>
-    <updated>2020-08-02T09:40:38.077Z</updated>
+    <updated>2020-08-02T10:20:22.288Z</updated>
     
     <summary type="html">
     
