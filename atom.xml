@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-02T07:02:43.021Z</updated>
+  <updated>2020-08-02T08:43:10.417Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test_rss</title>
-    <link href="http://yoursite.com/2020/08/02/test-rss/"/>
-    <id>http://yoursite.com/2020/08/02/test-rss/</id>
-    <published>2020-08-02T14:50:50.000Z</published>
-    <updated>2020-08-02T07:02:43.021Z</updated>
+    <title>test_code</title>
+    <link href="http://yoursite.com/2020/08/02/test-code/"/>
+    <id>http://yoursite.com/2020/08/02/test-code/</id>
+    <published>2020-08-02T15:57:43.000Z</published>
+    <updated>2020-08-02T08:43:10.417Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,33 @@
       
         
         
-          &lt;h1 id=&quot;幫網站畫圖標&quot;&gt;&lt;a href=&quot;#幫網站畫圖標&quot; class=&quot;headerlink&quot; title=&quot;幫網站畫圖標&quot;&gt;&lt;/a&gt;幫網站畫圖標&lt;/h1&gt;&lt;p&gt;最近在瀏覽網站時突然覺得netflix
+          &lt;h1&gt;Vespa ai 筆記 (一)&lt;/h1&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test_rss</title>
+    <link href="http://yoursite.com/2020/08/02/test-rss/"/>
+    <id>http://yoursite.com/2020/08/02/test-rss/</id>
+    <published>2020-08-02T14:50:50.000Z</published>
+    <updated>2020-08-02T08:43:10.417Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;幫網站畫圖標&quot;&gt;幫網站畫圖標&lt;/h2&gt;
+&lt;p&gt;最近在瀏覽網站時突然覺得netflix 的圖標讓人印象深刻，突然想到自己的網站上一直沒有圖標，於是決定來幫網站加個圖標ＸＤ&lt;/p&gt;
+&lt;p&gt;&lt;img
         
       
     
@@ -45,8 +71,8 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/08/02/hello-world/"/>
     <id>http://yoursite.com/2020/08/02/hello-world/</id>
-    <published>2020-08-02T07:02:43.021Z</published>
-    <updated>2020-08-02T07:02:43.021Z</updated>
+    <published>2020-08-02T08:43:10.417Z</published>
+    <updated>2020-08-02T08:43:10.417Z</updated>
     
     <summary type="html">
     
@@ -69,7 +95,7 @@
     <link href="http://yoursite.com/2020/08/01/page-1/"/>
     <id>http://yoursite.com/2020/08/01/page-1/</id>
     <published>2020-08-01T22:15:41.000Z</published>
-    <updated>2020-08-02T07:02:43.021Z</updated>
+    <updated>2020-08-02T08:43:10.417Z</updated>
     
     <summary type="html">
     
@@ -84,7 +110,7 @@
     <link href="http://yoursite.com/2020/07/01/123/"/>
     <id>http://yoursite.com/2020/07/01/123/</id>
     <published>2020-07-01T22:15:32.000Z</published>
-    <updated>2020-08-02T07:02:43.021Z</updated>
+    <updated>2020-08-02T08:43:10.417Z</updated>
     
     <summary type="html">
     
