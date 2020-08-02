@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-02T06:52:57.084Z</updated>
+  <updated>2020-08-02T07:02:43.021Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/08/02/test-rss/"/>
     <id>http://yoursite.com/2020/08/02/test-rss/</id>
     <published>2020-08-02T14:50:50.000Z</published>
-    <updated>2020-08-02T06:52:57.084Z</updated>
+    <updated>2020-08-02T07:02:43.021Z</updated>
     
     <summary type="html">
     
@@ -45,8 +45,8 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/08/02/hello-world/"/>
     <id>http://yoursite.com/2020/08/02/hello-world/</id>
-    <published>2020-08-02T06:52:57.084Z</published>
-    <updated>2020-08-02T06:52:57.084Z</updated>
+    <published>2020-08-02T07:02:43.021Z</published>
+    <updated>2020-08-02T07:02:43.021Z</updated>
     
     <summary type="html">
     
@@ -69,7 +69,7 @@
     <link href="http://yoursite.com/2020/08/01/page-1/"/>
     <id>http://yoursite.com/2020/08/01/page-1/</id>
     <published>2020-08-01T22:15:41.000Z</published>
-    <updated>2020-08-02T06:52:57.084Z</updated>
+    <updated>2020-08-02T07:02:43.021Z</updated>
     
     <summary type="html">
     
@@ -84,7 +84,7 @@
     <link href="http://yoursite.com/2020/07/01/123/"/>
     <id>http://yoursite.com/2020/07/01/123/</id>
     <published>2020-07-01T22:15:32.000Z</published>
-    <updated>2020-08-02T06:52:57.084Z</updated>
+    <updated>2020-08-02T07:02:43.021Z</updated>
     
     <summary type="html">
     
