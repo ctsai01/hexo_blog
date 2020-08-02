@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Mike&#39;s Blog</title>
   <icon>http://yoursite.com/icon.png</icon>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-02T08:43:10.417Z</updated>
+  <updated>2020-08-02T09:24:45.889Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Mike Tsai</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/08/02/test-code/"/>
     <id>http://yoursite.com/2020/08/02/test-code/</id>
     <published>2020-08-02T15:57:43.000Z</published>
-    <updated>2020-08-02T08:43:10.417Z</updated>
+    <updated>2020-08-02T09:24:45.889Z</updated>
     
     <summary type="html">
     
@@ -45,7 +45,7 @@
     <link href="http://yoursite.com/2020/08/02/test-rss/"/>
     <id>http://yoursite.com/2020/08/02/test-rss/</id>
     <published>2020-08-02T14:50:50.000Z</published>
-    <updated>2020-08-02T08:43:10.417Z</updated>
+    <updated>2020-08-02T09:24:45.889Z</updated>
     
     <summary type="html">
     
@@ -71,8 +71,8 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/08/02/hello-world/"/>
     <id>http://yoursite.com/2020/08/02/hello-world/</id>
-    <published>2020-08-02T08:43:10.417Z</published>
-    <updated>2020-08-02T08:43:10.417Z</updated>
+    <published>2020-08-02T09:24:45.885Z</published>
+    <updated>2020-08-02T09:24:45.889Z</updated>
     
     <summary type="html">
     
@@ -95,7 +95,7 @@
     <link href="http://yoursite.com/2020/08/01/page-1/"/>
     <id>http://yoursite.com/2020/08/01/page-1/</id>
     <published>2020-08-01T22:15:41.000Z</published>
-    <updated>2020-08-02T08:43:10.417Z</updated>
+    <updated>2020-08-02T09:24:45.889Z</updated>
     
     <summary type="html">
     
@@ -110,7 +110,7 @@
     <link href="http://yoursite.com/2020/07/01/123/"/>
     <id>http://yoursite.com/2020/07/01/123/</id>
     <published>2020-07-01T22:15:32.000Z</published>
-    <updated>2020-08-02T08:43:10.417Z</updated>
+    <updated>2020-08-02T09:24:45.885Z</updated>
     
     <summary type="html">
     
