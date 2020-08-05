@@ -8,7 +8,7 @@ tags:
     - Search engine
     - Real time
 toc: true
-thumbnail: https://lh3.googleusercontent.com/proxy/5eooE9dp4LhPSFpxtVF-W36nm-e2qda09vwrDKCjA1U15CAO8G02ZJi3XVJnMZ6r8TReeDxP7_AySnjTDkzt16BNDqZIGRUphIvEUgd9BlP0bi3cMOiOzJHP6tg35jS-A8_qLoUo_-hJit6w5LlHsr4QzA
+thumbnail: https://image.slidesharecdn.com/vespa-190522070501/95/big-data-serving-the-last-frontier-processing-and-inference-at-scale-in-realtime-1-638.jpg?cb=1558508775
 ---
 
 # Vespa ai 筆記 (一)
