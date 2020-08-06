@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mike&#39;s Blog</title>
-  <icon>http://yoursite.com/icon.png</icon>
+  <icon>http://mik.tw/icon.png</icon>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-08-05T17:27:38.411Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://mik.tw/"/>
+  <updated>2020-08-06T17:20:20.813Z</updated>
+  <id>http://mik.tw/</id>
   
   <author>
     <name>Mike Tsai</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/05/hello-world/"/>
-    <id>http://yoursite.com/2020/08/05/hello-world/</id>
-    <published>2020-08-05T17:27:38.411Z</published>
-    <updated>2020-08-05T17:27:38.411Z</updated>
+    <link href="http://mik.tw/2020/08/06/hello-world/"/>
+    <id>http://mik.tw/2020/08/06/hello-world/</id>
+    <published>2020-08-06T17:20:20.813Z</published>
+    <updated>2020-08-06T17:20:20.813Z</updated>
     
     <summary type="html">
     
@@ -41,10 +41,10 @@
   
   <entry>
     <title>Vespa ai 筆記 (一)</title>
-    <link href="http://yoursite.com/2020/08/02/test-code/"/>
-    <id>http://yoursite.com/2020/08/02/test-code/</id>
+    <link href="http://mik.tw/2020/08/02/test-code/"/>
+    <id>http://mik.tw/2020/08/02/test-code/</id>
     <published>2020-08-02T15:57:43.000Z</published>
-    <updated>2020-08-05T17:27:38.411Z</updated>
+    <updated>2020-08-06T17:20:20.813Z</updated>
     
     <summary type="html">
     
@@ -62,24 +62,24 @@
     
     
     
-      <category term="Vespa" scheme="http://yoursite.com/tags/Vespa/"/>
+      <category term="Vespa" scheme="http://mik.tw/tags/Vespa/"/>
     
-      <category term="Yahoo" scheme="http://yoursite.com/tags/Yahoo/"/>
+      <category term="Yahoo" scheme="http://mik.tw/tags/Yahoo/"/>
     
-      <category term="Opensource" scheme="http://yoursite.com/tags/Opensource/"/>
+      <category term="Opensource" scheme="http://mik.tw/tags/Opensource/"/>
     
-      <category term="Search engine" scheme="http://yoursite.com/tags/Search-engine/"/>
+      <category term="Search engine" scheme="http://mik.tw/tags/Search-engine/"/>
     
-      <category term="Real time" scheme="http://yoursite.com/tags/Real-time/"/>
+      <category term="Real time" scheme="http://mik.tw/tags/Real-time/"/>
     
   </entry>
   
   <entry>
     <title>幫網站畫圖標</title>
-    <link href="http://yoursite.com/2020/08/02/test-rss/"/>
-    <id>http://yoursite.com/2020/08/02/test-rss/</id>
+    <link href="http://mik.tw/2020/08/02/test-rss/"/>
+    <id>http://mik.tw/2020/08/02/test-rss/</id>
     <published>2020-08-02T14:50:50.000Z</published>
-    <updated>2020-08-05T17:27:38.411Z</updated>
+    <updated>2020-08-06T17:20:20.813Z</updated>
     
     <summary type="html">
     
@@ -101,18 +101,18 @@
     
     
     
-      <category term="Icon" scheme="http://yoursite.com/tags/Icon/"/>
+      <category term="Icon" scheme="http://mik.tw/tags/Icon/"/>
     
-      <category term="Design" scheme="http://yoursite.com/tags/Design/"/>
+      <category term="Design" scheme="http://mik.tw/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>page</title>
-    <link href="http://yoursite.com/2020/08/01/page-1/"/>
-    <id>http://yoursite.com/2020/08/01/page-1/</id>
+    <link href="http://mik.tw/2020/08/01/page-1/"/>
+    <id>http://mik.tw/2020/08/01/page-1/</id>
     <published>2020-08-01T22:15:41.000Z</published>
-    <updated>2020-08-05T17:27:38.411Z</updated>
+    <updated>2020-08-06T17:20:20.813Z</updated>
     
     <summary type="html">
     
@@ -124,10 +124,10 @@
   
   <entry>
     <title>page</title>
-    <link href="http://yoursite.com/2020/07/01/123/"/>
-    <id>http://yoursite.com/2020/07/01/123/</id>
+    <link href="http://mik.tw/2020/07/01/123/"/>
+    <id>http://mik.tw/2020/07/01/123/</id>
     <published>2020-07-01T22:15:32.000Z</published>
-    <updated>2020-08-05T17:27:38.411Z</updated>
+    <updated>2020-08-06T17:20:20.813Z</updated>
     
     <summary type="html">
     
@@ -143,12 +143,12 @@
     </summary>
     
     
-      <category term="category1" scheme="http://yoursite.com/categories/category1/"/>
+      <category term="category1" scheme="http://mik.tw/categories/category1/"/>
     
     
-      <category term="tag1" scheme="http://yoursite.com/tags/tag1/"/>
+      <category term="tag1" scheme="http://mik.tw/tags/tag1/"/>
     
-      <category term="tag2" scheme="http://yoursite.com/tags/tag2/"/>
+      <category term="tag2" scheme="http://mik.tw/tags/tag2/"/>
     
   </entry>
   
